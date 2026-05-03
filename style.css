@@ -1,0 +1,44 @@
+#title { 
+   color: green; 
+   text-align: center; 
+} 
+ 
+ 
+.house { 
+   border: 2px solid #218222/* WIDTH STYLE COLOR */; 
+   border-radius: 10px;
+   padding: 10px; 
+   margin: 10px; 
+} 
+ 
+/* Pupuke */ 
+.pupuke { 
+   background-color: #4a90e2; 
+} 
+ 
+/* Smale */ 
+.smale { 
+   background-color: #4caf50/* GREEN */; 
+} 
+ 
+/* Stanley */ 
+.stanley { 
+   background-color: #e53935/* RED */; 
+} 
+ 
+/* Ururoto */ 
+.ururoto { 
+   background-color: #212121/* BLACK */; 
+   color: white; 
+} 
+ 
+/* Murchison */ 
+.murchison { 
+   background-color: #ffffff/* WHITE */; 
+} 
+ 
+/* Hood */ 
+.hood { 
+   background-color: #8b0000 /* DARK RED */; 
+   color: white; 
+} 
