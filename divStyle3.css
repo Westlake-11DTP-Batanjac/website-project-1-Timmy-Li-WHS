@@ -32,6 +32,7 @@ header {
   display:flex;
   flex-direction:row;
   align-items:flex-center;
+  gap:40px
   /* STUDENT TASK: Initialize flex and align items */
 }
 
@@ -62,6 +63,9 @@ nav ul {
 
   padding: 12px;
 
+  display: flex;
+
+  gap:20px;
   /* STUDENT TASK: Initialize flex and center the content */
 }
 
